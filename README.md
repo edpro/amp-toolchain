@@ -1,4 +1,4 @@
-# EdPor toolchain
+# EdPro toolchain
 
 Binary software and packages required for development, testing and calibration.
 This repository should be checked out alongside with other projects (firmware, multimeter, powersource).
