@@ -17,7 +17,7 @@ This repository should be checked out alongside with other projects (firmware, m
     * choose driver: `libusb-win32 (v1.2.6.0)`
     * click `Install Driver`
 
-![screenshot](./resources/img/rigol-zadig.png | width=502)
+<img src="resources/img/rigol-zadig.png" width="502">
 
 ## OWON AG051 Signal Generator:
 
