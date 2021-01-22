@@ -8,10 +8,13 @@ This repository should be checked out alongside with other projects (firmware, m
 
 # Install drivers:
 
+## Multimeter & Powersource UART driver:
+* Install from `downloads\CP210x_Universal_Windows_Driver.zip`
+
 ## RIGOL DM3058 Multimiter:
 
 * Connect device
-* Use `zadig` tool to set driver:
+* Use `zadig` tool (downloads\zadig-2.4.zip) to set driver:
     * run `zadig`
     * choose device: `DM3000 SERIES`
     * choose driver: `libusb-win32 (v1.2.6.0)`
